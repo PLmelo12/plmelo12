@@ -1,16 +1,14 @@
-### Hi there 👋
+<h3>Bem-vindo ao meu github</h3>
+<hr>
 
-<!--
-**PLmelo12/plmelo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas na <a href="https://www.unisuam.edu.br/" target="blank_">Unisuam</a></p>
+<p>🧠 Me aperfeiçoando mais e mais a cada dia</p>
+<hr>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py)](https://skillicons.dev)
