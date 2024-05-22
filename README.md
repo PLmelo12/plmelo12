@@ -5,10 +5,4 @@
 <p>🧠 Me aperfeiçoando mais e mais a cada dia</p>
 <hr>
 
-
-
-
-
-
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py)](https://skillicons.dev)
